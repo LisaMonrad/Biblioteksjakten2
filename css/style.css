@@ -1,0 +1,23 @@
+.btn-primary{
+	background-color: black;
+}
+
+#services{
+	background-color: black;
+	color: white;
+}
+
+p{
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+}
+
+#services img{
+	max-width: 100%;
+}
+
+header.masthead {
+    background-image: url("../img/böcker.jpg");
+}
+
+
